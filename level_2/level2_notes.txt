@@ -1,0 +1,14 @@
+--------------------------------
+Events
+--------------------------------
+
+DOM triggers event, you can listen for those events (click, submit, hover)
+
+- objects in node also emit events, and if they do, they inherit from the EventEmitter constructor
+- net.Server class inherits from it, emits the request event
+- fs.readStream, returns a stream which inherits from event emitter, emits the data event
+
+- custom event emitter created "logger" (in 'events.js')
+
+
+

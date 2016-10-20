@@ -1,0 +1,11 @@
+--------------------------------
+Running the program
+--------------------------------
+$ node hello.js
+listening on port 8080...
+$ curl http://localhost:8080
+<p>Dog is running.</p><p><b>Dog is done running.</b></p>%   
+
+
+--------------------------------
+--------------------------------

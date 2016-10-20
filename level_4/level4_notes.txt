@@ -1,0 +1,8 @@
+NPM: Node Package Manager
+
+http://npmjs.org
+
+- comes with Node
+- module repository
+- dependency management
+- easily publish your own modules too
